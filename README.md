@@ -9,6 +9,4 @@
 
 FiveM Anti Dump
 
-It cancels the monetization action through the trigger, and prevents some things like exploit and your server crashing.
-
-It also disables the types that trigger many events, such as the public cheat, and reverses the cheat, thus creating an automatic order.
+If the cheat downloads the files, it encounters an empty folder, and the files are read in a one-time player with load.
