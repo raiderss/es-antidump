@@ -1,4 +1,4 @@
-fx_version "adamant"
+fx_version "cerulean"
 
 -- Eyes Anti Dump / Support
 -- discord.gg/EkwWvFS
