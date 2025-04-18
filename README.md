@@ -27,3 +27,9 @@ For any questions or support, feel free to join our [Discord server](https://dis
 ---
 
 Thank you for choosing FiveGuard for your server's security needs.
+
+---
+
+## Tags
+
+#fivem-anticheat #lua-security #script-protection #fivem-scripts #antidump-protection #qbcore-security #fivem-developer-tools #gta5-mods #fivem-multiplayer #fivem-resource #server-protection #fivem-server-security #cfx-resources #adsense-compatible #seo-optimized #fivem-lua #anticheat-system #hack-prevention #roleplay-server #code-protection #resource-security #lua-obfuscation #anti-leak-protection #fivem-security #secure-scripts #anti-dumping #server-integrity #fivem-resources #fivem-development #server-scripts
